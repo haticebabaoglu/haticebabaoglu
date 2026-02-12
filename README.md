@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/haticebabaoglu/haticebabaoglu/main/banner.svg" alt="banner" />
+  <img src="./banner.svg" alt="banner" />
 </p>
+
 
 
 ## 🛠️ Tech Stack
