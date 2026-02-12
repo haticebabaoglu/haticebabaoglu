@@ -100,51 +100,7 @@
         <animate attributeName="width" dur="1.2s" begin="0s" repeatCount="1" values="0;430"/>
       </rect>
 
-      <!-- Icon pills (glass) -->
-      <g transform="translate(140,208)">
-        <!-- pill 1: TS -->
-        <g>
-          <rect x="0" y="0" width="150" height="44" rx="16" fill="rgba(255,255,255,0.16)" stroke="rgba(255,255,255,0.28)"/>
-          <circle cx="24" cy="22" r="14" fill="rgba(49,120,198,0.95)"/>
-          <text x="24" y="28" text-anchor="middle" fill="#ffffff" font-size="14"
-                font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial" font-weight="800">TS</text>
-          <text x="52" y="28" fill="rgba(255,255,255,0.92)" font-size="16"
-                font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial" font-weight="650">TypeScript</text>
-          <animateTransform attributeName="transform" type="translate" dur="5s" repeatCount="indefinite"
-            values="0 0; 0 -3; 0 0"/>
-        </g>
-
-        <!-- pill 2: Svelte -->
-        <g transform="translate(170,0)">
-          <rect x="0" y="0" width="140" height="44" rx="16" fill="rgba(255,255,255,0.16)" stroke="rgba(255,255,255,0.28)"/>
-          <circle cx="24" cy="22" r="14" fill="rgba(255,62,0,0.95)"/>
-          <text x="24" y="28" text-anchor="middle" fill="#ffffff" font-size="14"
-                font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial" font-weight="800">S</text>
-          <text x="52" y="28" fill="rgba(255,255,255,0.92)" font-size="16"
-                font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial" font-weight="650">Svelte</text>
-          <animateTransform attributeName="transform" type="translate" dur="5.6s" repeatCount="indefinite"
-            values="0 0; 0 -4; 0 0"/>
-        </g>
-
-        <!-- pill 3: React -->
-        <g transform="translate(330,0)">
-          <rect x="0" y="0" width="130" height="44" rx="16" fill="rgba(255,255,255,0.16)" stroke="rgba(255,255,255,0.28)"/>
-          <circle cx="24" cy="22" r="14" fill="rgba(97,218,251,0.95)"/>
-          <text x="24" y="28" text-anchor="middle" fill="rgba(13,17,23,0.95)" font-size="14"
-                font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial" font-weight="900">R</text>
-          <text x="52" y="28" fill="rgba(255,255,255,0.92)" font-size="16"
-                font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial" font-weight="650">React</text>
-          <animateTransform attributeName="transform" type="translate" dur="6.2s" repeatCount="indefinite"
-            values="0 0; 0 -3; 0 0"/>
-        </g>
-      </g>
-    </g>
-
-    <!-- Subtle top shine -->
-    <rect x="-200" y="-120" width="1600" height="220" fill="rgba(255,255,255,0.10)" transform="rotate(-6 600 160)">
-      <animate attributeName="opacity" dur="4.8s" repeatCount="indefinite" values="0.10;0.18;0.10"/>
-    </rect>
-
+  
     <!-- Noise overlay -->
     <g filter="url(#noise)"></g>
   </g>
