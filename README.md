@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=900&color=FF6EC7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I%27m+Hatice;Frontend+Developer;UI+Systems+%26+Component+Libraries;Svelte+%7C+React+%7C+TypeScript"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=900&color=FF6EC7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I%27m+Hatice;Frontend+Developer;UI+Systems+%26+Component+Libraries;"
     alt="Typing SVG"
   />
 </p>
@@ -40,14 +40,6 @@ Reusable **Svelte 5 component library** focused on scalable UI systems and devel
 
 👉 https://www.npmjs.com/package/@htunesys/hexawebshare
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haticebabaoglu&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haticebabaoglu&layout=compact&theme=radical" height="160"/>
-</p>
 
 ---
 
