@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋 I'm Hatice</h1>
-<h3 align="center">Frontend Developer · UI Systems · Component Libraries</h3>
 
 <p align="center">
-Building scalable UI systems & modern web applications with a focus on reusable component architecture.
+  <img src="https://komarev.com/ghpvc/?username=haticebabaoglu&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-ff6ec7?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%20Systems-7b68ee?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Component%20Libraries-00c9a7?style=for-the-badge&logo=svelte&logoColor=white" />
 </p>
 
 ---
