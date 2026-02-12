@@ -96,7 +96,7 @@
       </text>
 
       <!-- Animated underline -->
-      <rect x="140" y="190" width="="0" height="4" rx="2" fill="rgba(255,255,255,0.85)">
+      <rect x="140" y="190" width="0" height="4" rx="2" fill="rgba(255,255,255,0.85)">
         <animate attributeName="width" dur="1.2s" begin="0s" repeatCount="1" values="0;430"/>
       </rect>
 
