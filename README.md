@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,100:7b68ee&height=200&section=header&text=Hatice%20🚀&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,100:7b68ee&height=200&section=header&text=Welcome%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 
@@ -14,17 +14,6 @@
 </p>
 
 
-
-
-<h1 align="center">Hi 👋 I'm Hatice</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-ff6ec7?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%20Systems-7b68ee?style=for-the-badge&logo=storybook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Component%20Libraries-00c9a7?style=for-the-badge&logo=svelte&logoColor=white" />
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
