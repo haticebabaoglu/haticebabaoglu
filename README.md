@@ -1,9 +1,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,100:7b68ee&height=200&section=header&text=Hatice%20🚀&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=FF6EC7&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Hatice;Frontend+Developer;Building+Scalable+UI+Systems;Svelte+%7C+React+%7C+TypeScript" />
 </p>
+
+---
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212897782-9658157e-56e5-4e1a-b8b9-4d3a9b8d5c6f.gif" width="800"/>
 </p>
