@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="./banner.svg" alt="banner" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=900&color=FF6EC7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I%27m+Hatice;Frontend+Developer;UI+Systems+%26+Component+Libraries;Svelte+%7C+React+%7C+TypeScript"
+    alt="Typing SVG"
+  />
 </p>
-
 
 
 ## 🛠️ Tech Stack
